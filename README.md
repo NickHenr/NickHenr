@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nick 👋
 
-<!--
-**NickHenr/NickHenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate learner currently diving into the world of programming. My goal is to become a Full-Stack Developer, focusing on building the logic and systems that power great applications.
 
-Here are some ideas to get you started:
+### 🔭 What I’m working on
+- 📚 Completing the **freeCodeCamp** curriculum (Responsive Web Design & beyond).
+- 💻 Practicing and building the foundations of web development.
+- 🧩 Solving logic and mathematics puzzles to improve my algorithmic thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- Learning: HTML5, CSS3, Programming Logic
+- Interests: Back-End Development, Databases, Mathematics
+- Tools: VS Code, Git, GitHub
+
+### 🌱 My Learning Journey
+Currently, I'm dedicating several hours a day to studying code and refining my English skills to better communicate with the global developer community.
+
+### 📫 Connect with me
+- [Email](mailto:nickhenrique1@hotmail.com)
+
+---
+*“Done is better than perfect.”*
